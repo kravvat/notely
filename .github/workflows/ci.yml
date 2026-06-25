@@ -19,7 +19,7 @@ jobs:
           node-version: 22.15.0
 
       - name: Install dependencies
-        run: npm ci --omit=optional
+        run: npm ci 
 
       - name: Run Vitest
         run: npm run test
