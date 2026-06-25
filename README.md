@@ -1,4 +1,4 @@
-![Badge for Tests](https:/github.com/kravvat/notely/actions/workflows/ci.yml/badge.svg
+![Badge for Tests](https://github.com/kravvat/notely/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
